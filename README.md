@@ -2,6 +2,8 @@
 This project uses pygame library and math library in python in order to simulate the revolution of the planets around the Sun.
 It creates a basic planetary system with the Sun and several planets and simulates their orbits and positions over time.
 
+![](Screenshot%202023-10-15%20002131.png)
+
 The steps are:-
 1) Import Pygame and initialize it.
 
